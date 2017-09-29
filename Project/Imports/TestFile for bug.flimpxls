@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsExcelImport
+  SaveWorkbookToFolder="false"
+  WorksheetImportType="topic"
+  PersistFirstRowAsHeader="true"
+  LimitRows="false"
+  LimitRowsCount="30"
+  SaveChartsAs="true"
+  SaveChartsAsType="Png"
+  ConvertEquations="true"
+  ExclusionFilters="file:///C:/Bug Projects/134645/TestFile for bug.xlsx?Worksheet=1 Revenues (Sales);ColumnNumbers=1;RowNumbers=1,2|file:///C:/Bug Projects/134645/TestFile for bug.xlsx?Worksheet=2 Cost of Sales;ColumnNumbers=1;RowNumbers=1,2|file:///C:/Bug Projects/134645/TestFile for bug.xlsx?Worksheet=3 Expenses;ColumnNumbers=1;RowNumbers=1,2|file:///C:/Bug Projects/134645/TestFile for bug.xlsx?Worksheet=4 Test;ColumnNumbers=1;RowNumbers=1,2|file:///C:/Bug Projects/134645/TestFile for bug.xlsx?Worksheet=5 Test2;ColumnNumbers=1;RowNumbers=1,2"
+  CreateMasterTopic="false"
+  IncludeWorksheetTitlesAsHeadings="false"
+  ImportHiddenRowsColumns="false"
+  KeepSourceLinks="true"
+  AutoSync="false"
+  Stylesheet=""
+  PreserveSourceStyles="true"
+  LastImport="2017-09-29T15:06:07.5720002-07:00">
+  <Files>
+    <Url
+      Source="../../../../../../../Bug Projects/134645/TestFile for bug.xlsx"
+      AbsoluteSource="file:///C:/Bug Projects/134645/TestFile for bug.xlsx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/TableStyles/Revenue.css"
+      TimeStamp="9/29/2017 3:05:58 PM" />
+    <Url
+      Source="../../Content/Resources/TableStyles/CostofSales.css"
+      TimeStamp="9/29/2017 3:05:58 PM" />
+    <Url
+      Source="../../Content/Resources/TableStyles/tblExpenses.css"
+      TimeStamp="9/29/2017 3:05:58 PM" />
+    <Url
+      Source="../../Content/Resources/TableStyles/Table1.css"
+      TimeStamp="9/29/2017 3:05:58 PM" />
+    <Url
+      Source="../../Content/Resources/TableStyles/Table17.css"
+      TimeStamp="9/29/2017 3:05:58 PM" />
+    <Url
+      Source="../../Content/Resources/Images/TestFile for bug/4 Test_4 Test Chart 1.png"
+      TimeStamp="9/29/2017 3:06:00 PM" />
+    <Url
+      Source="../../Content/Resources/Images/TestFile for bug/5 Test2_4 Test Chart 1.png"
+      TimeStamp="9/29/2017 3:06:00 PM" />
+    <Url
+      Source="../../Content/TestFile for bug/1 Revenues (Sales).htm"
+      TimeStamp="9/29/2017 3:06:01 PM" />
+    <Url
+      Source="../../Content/TestFile for bug/2 Cost of Sales.htm"
+      TimeStamp="9/29/2017 3:06:02 PM" />
+    <Url
+      Source="../../Content/TestFile for bug/3 Expenses.htm"
+      TimeStamp="9/29/2017 3:06:03 PM" />
+    <Url
+      Source="../../Content/TestFile for bug/4 Test.htm"
+      TimeStamp="9/29/2017 3:06:03 PM" />
+    <Url
+      Source="../../Content/TestFile for bug/4 Test1.htm"
+      TimeStamp="9/29/2017 3:06:03 PM" />
+    <Url
+      Source="../../Content/TestFile for bug/4 Test2.htm"
+      TimeStamp="9/29/2017 3:06:04 PM" />
+    <Url
+      Source="../../Content/TestFile for bug/4 Test3.htm"
+      TimeStamp="9/29/2017 3:06:04 PM" />
+    <Url
+      Source="../../Content/TestFile for bug/4 Test4.htm"
+      TimeStamp="9/29/2017 3:06:04 PM" />
+    <Url
+      Source="../../Content/TestFile for bug/5 Test2.htm"
+      TimeStamp="9/29/2017 3:06:04 PM" />
+    <Url
+      Source="../../Content/TestFile for bug/5 Test3.htm"
+      TimeStamp="9/29/2017 3:06:04 PM" />
+    <Url
+      Source="../../Content/TestFile for bug/5 Test4.htm"
+      TimeStamp="9/29/2017 3:06:04 PM" />
+    <Url
+      Source="../../Content/TestFile for bug/5 Test5.htm"
+      TimeStamp="9/29/2017 3:06:04 PM" />
+    <Url
+      Source="../../Content/TestFile for bug/5 Test6.htm"
+      TimeStamp="9/29/2017 3:06:04 PM" />
+    <Url
+      Source="../TOCs/TestFile for bug.fltoc"
+      TimeStamp="9/29/2017 3:06:04 PM" />
+  </GeneratedFiles>
+</MsExcelImport>

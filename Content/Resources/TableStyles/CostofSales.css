@@ -1,0 +1,795 @@
+/* MadCap Table Style: */
+
+/*<meta sourceDocument="C:\Bug Projects\134645\TestFile for bug.xlsx" Version="9" />*/
+
+mcTableStyle
+{
+	name: CostofSales;
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-style: normal;
+	font-weight: normal;
+	max-id: 1;
+}
+
+mcTableColumnStyle
+{
+	name: Column1;
+	id: 1;
+}
+
+mcTableHeadStyle
+{
+	name: Header1;
+	id: 1;
+	background-color: #FFFFFF;
+	span: 1;
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-style: normal;
+	font-weight: bold;
+}
+
+mcTableBodyStyle
+{
+	name: Body1;
+	id: 1;
+	span: 1;
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-style: normal;
+	font-weight: normal;
+	separator-style: solid;
+	separator-width: 2px;
+	separator-color: #EBB97C;
+}
+
+mcTableBodyStyle
+{
+	name: Body2;
+	id: 2;
+	span: 1;
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-style: normal;
+	font-weight: normal;
+	separator-style: solid;
+	separator-width: 2px;
+	separator-color: #EBB97C;
+}
+
+mcTableFootStyle
+{
+	name: Footer1;
+	id: 1;
+	background-color: #FFFFFF;
+	span: 1;
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-style: normal;
+	font-weight: bold;
+}
+
+
+/* Cell Styles: */
+ 
+.TableStyle-CostofSales
+{
+	border-spacing: 0px 0px;
+}
+
+.TableStyle-CostofSales-Column-Column1
+{
+	
+}
+
+.TableStyle-CostofSales-Head-Header1
+{
+	
+}
+
+.TableStyle-CostofSales-HeadI-Column1-Header1
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-CostofSales-HeadI-Column1-Header1 p
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-HeadE-Column1-Header1
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-CostofSales-HeadE-Column1-Header1 p
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-HeadF-Column1-Header1
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-CostofSales-HeadF-Column1-Header1 p
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-HeadH-Column1-Header1
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-CostofSales-HeadH-Column1-Header1 p
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-HeadD-Column1-Header1
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-CostofSales-HeadD-Column1-Header1 p
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-HeadC-Column1-Header1
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-CostofSales-HeadC-Column1-Header1 p
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-HeadB-Column1-Header1
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-CostofSales-HeadB-Column1-Header1 p
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-HeadA-Column1-Header1
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-CostofSales-HeadA-Column1-Header1 p
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-HeadG-Column1-Header1
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-CostofSales-HeadG-Column1-Header1 p
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-Foot-Footer1
+{
+	
+}
+
+.TableStyle-CostofSales-FootI-Column1-Footer1
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-CostofSales-FootI-Column1-Footer1 p
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-FootE-Column1-Footer1
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-CostofSales-FootE-Column1-Footer1 p
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-FootF-Column1-Footer1
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-CostofSales-FootF-Column1-Footer1 p
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-FootH-Column1-Footer1
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-CostofSales-FootH-Column1-Footer1 p
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-FootD-Column1-Footer1
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-CostofSales-FootD-Column1-Footer1 p
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-FootC-Column1-Footer1
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-CostofSales-FootC-Column1-Footer1 p
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-FootB-Column1-Footer1
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-CostofSales-FootB-Column1-Footer1 p
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-FootA-Column1-Footer1
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-CostofSales-FootA-Column1-Footer1 p
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-FootG-Column1-Footer1
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+	background-color: #FFFFFF;
+}
+
+.TableStyle-CostofSales-FootG-Column1-Footer1 p
+{
+	color: #38321C;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: bold;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-Body-Body1
+{
+	
+}
+
+.TableStyle-CostofSales-BodyI-Column1-Body1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-BodyI-Column1-Body1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-BodyE-Column1-Body1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	border-bottom-width: 2px;
+	border-bottom-color: #EBB97C;
+	border-bottom-style: solid;
+}
+
+.TableStyle-CostofSales-BodyE-Column1-Body1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-BodyF-Column1-Body1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	border-bottom-width: 2px;
+	border-bottom-color: #EBB97C;
+	border-bottom-style: solid;
+}
+
+.TableStyle-CostofSales-BodyF-Column1-Body1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-BodyH-Column1-Body1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-BodyH-Column1-Body1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-BodyD-Column1-Body1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	border-bottom-width: 2px;
+	border-bottom-color: #EBB97C;
+	border-bottom-style: solid;
+}
+
+.TableStyle-CostofSales-BodyD-Column1-Body1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-BodyC-Column1-Body1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-BodyC-Column1-Body1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-BodyB-Column1-Body1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-BodyB-Column1-Body1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-BodyA-Column1-Body1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-BodyA-Column1-Body1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-BodyG-Column1-Body1
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-BodyG-Column1-Body1 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-Body-Body2
+{
+	
+}
+
+.TableStyle-CostofSales-BodyI-Column1-Body2
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-BodyI-Column1-Body2 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-BodyE-Column1-Body2
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	border-bottom-width: 2px;
+	border-bottom-color: #EBB97C;
+	border-bottom-style: solid;
+}
+
+.TableStyle-CostofSales-BodyE-Column1-Body2 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-BodyF-Column1-Body2
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	border-bottom-width: 2px;
+	border-bottom-color: #EBB97C;
+	border-bottom-style: solid;
+}
+
+.TableStyle-CostofSales-BodyF-Column1-Body2 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-BodyH-Column1-Body2
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-BodyH-Column1-Body2 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-BodyD-Column1-Body2
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+	border-bottom-width: 2px;
+	border-bottom-color: #EBB97C;
+	border-bottom-style: solid;
+}
+
+.TableStyle-CostofSales-BodyD-Column1-Body2 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-BodyC-Column1-Body2
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-BodyC-Column1-Body2 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-BodyB-Column1-Body2
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-BodyB-Column1-Body2 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-BodyA-Column1-Body2
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-BodyA-Column1-Body2 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-BodyG-Column1-Body2
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.TableStyle-CostofSales-BodyG-Column1-Body2 p
+{
+	color: #000000;
+	font-family: Calibri;
+	font-size: 11;
+	font-weight: normal;
+	font-style: normal;
+}
+
+
